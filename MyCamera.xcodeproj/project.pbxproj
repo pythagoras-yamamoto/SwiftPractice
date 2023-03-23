@@ -11,6 +11,7 @@
 		1B321EEE29CC320E00B97B60 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B321EED29CC320E00B97B60 /* ContentView.swift */; };
 		1B321EF029CC321000B97B60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B321EEF29CC321000B97B60 /* Assets.xcassets */; };
 		1B321EF329CC321000B97B60 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B321EF229CC321000B97B60 /* Preview Assets.xcassets */; };
+		1B321EFA29CC327000B97B60 /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B321EF929CC327000B97B60 /* ImagePickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1B321EED29CC320E00B97B60 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1B321EEF29CC321000B97B60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B321EF229CC321000B97B60 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1B321EF929CC327000B97B60 /* ImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				1B321EEB29CC320E00B97B60 /* MyCameraApp.swift */,
+				1B321EF929CC327000B97B60 /* ImagePickerView.swift */,
 				1B321EED29CC320E00B97B60 /* ContentView.swift */,
 				1B321EEF29CC321000B97B60 /* Assets.xcassets */,
 				1B321EF129CC321000B97B60 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1B321EEE29CC320E00B97B60 /* ContentView.swift in Sources */,
+				1B321EFA29CC327000B97B60 /* ImagePickerView.swift in Sources */,
 				1B321EEC29CC320E00B97B60 /* MyCameraApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
